@@ -1,6 +1,6 @@
-> This package is **abandoned** and will no longer be maintained.
+This is a maintained library from an **abandoned** package used to cache images.
 
-# ~~Intervention Image Cache~~ (Abandoned)
+# Invervention Image Cache
 
 Intervention Image Cache extends the [Intervention Image Class](https://github.com/Intervention/image/) package to be capable of image caching functionality.
 
@@ -14,7 +14,7 @@ You can install this package quickly and easily with Composer.
 
 Require the package via Composer:
 
-    $ composer require intervention/imagecache
+    $ composer require joshcadman01/imagecache
 
 Now you are able to require the `vendor/autoload.php` file to PSR-4 autoload the library.
 
